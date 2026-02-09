@@ -44,7 +44,7 @@ components:
           value: 'true'
         - name: TESTCONTAINERS_CHECKS_DISABLE
           value: 'true'
-      image: quay.io/ibm/quarkus-workshop-devspace:ibm-3.27.1
+      image: quay.io/ibm/quarkus-workshop-devspace:ibm-3.27.2
       memoryLimit: 6Gi
       memoryRequest: 4Gi
     name: quarkus-tools
